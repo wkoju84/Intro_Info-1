@@ -1,1 +1,2 @@
-este é o texto teste
+este é o texto teste.
+agora uma nova alteração foi feita
